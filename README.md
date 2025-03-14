@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🚀 Weronika Orzechowska | Data Science & AI Enthusiast
 
-<!--
-**weroniaorzechowska/weroniaorzechowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I am a **Data Analysis and Mathematics** student at **Warsaw University of Technology**, passionate about data exploration, machine learning, and technology strategy. I love combining theory with practice to create innovative, data-driven solutions.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Skills:
+- **Programming Languages**: Python, R, SQL
+- **Machine Learning & AI**: Scikit-learn, PyTorch, TensorFlow, Keras
+- **Data Analysis & Statistics**: Pandas, NumPy, SciPy, ggplot, plotly
+- **Databases**: SQL, SAS (Base SAS, Macro Programming, Proc SQL)
+- **SAS Viya**: Develop Code and Flows, Explore and Visualise, Build Models
+- **Modeling Complex Time Series Phenomena** and Statistical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects:
+- **🧠 Federated Learning & Data Augmentation**: Bachelor's thesis on extending the **StatMix** method.
+- **📊 Bankruptcy Risk Prediction Model** based on credit data in Python.
+- **🎵 Embeddings for MIDI Music**: analyzing playing styles, music recommendation system.
+- **📚 Personal Book Library App** in Shiny (R).
+- **💼 AI-powered Recruitment Tool**: HR application enhanced with AI-based candidate filtering.
+
+### 🎯 Goals:
+I aim to combine my knowledge of **data analysis** with **practical skills in project management and technology strategy** to develop innovative solutions in a dynamic business environment.
+
+💡 Interested in **AI, deep learning, quantum AI, and real-world data applications**.
